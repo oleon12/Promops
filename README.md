@@ -1,5 +1,5 @@
 ## Distribution of Promops nasutus and Promops centralis (Chiroptera: Molossidae) in South America: insights from acoustic evidence
-### _Orlando Fabián Hernández-Leal, Omar Daniel Leon-Alvarado, Aída Otálora-Ardila, Angélica V. Yantén, Maria Camila Valdés-Cardona, Camila A. Díaz-B, Jefferson Sánchez, Leidy Azucena Ramírez-Fráncel, Diego Lizcano, and Francisco Sánchez_
+### _Orlando Fabián Hernández-Leal, Omar Daniel Leon-Alvarado, Aída Otálora-Ardila[*](https://www.researchgate.net/profile/Aida_Otalora-Ardila), Angélica V. Yantén, Maria Camila Valdés-Cardona[*](https://www.researchgate.net/profile/Maria-Camila-Valdes-Cardona/research), Camila A. Díaz-B[*](https://www.researchgate.net/profile/Camila-A-Diaz-B), Jefferson Sánchez, Leidy Azucena Ramírez-Fráncel, Diego Lizcano, and Francisco Sánchez_
 ___
 
 </br>
