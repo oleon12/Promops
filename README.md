@@ -3,8 +3,8 @@
 
 </br>
 
-This repository contains the input data used to build the Ecological Niche Mododels (ENM) of each species, and the results of them. 
+This repository contains the [input](https://github.com/oleon12/Promops/tree/main/Input) data used to build the Ecological Niche Mododels (ENM) of each species, and the [results](https://github.com/oleon12/Promops/tree/main/Models) of them. 
 
 </br>
 
-Also, the results of this study can be found as an interactive map here
+Also, the results of this study can be found as an interactive map [here](https://rpubs.com/oleon12/Promops)
