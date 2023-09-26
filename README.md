@@ -13,5 +13,5 @@ Also, the results of this study can be found as an interactive map [here](https:
 </br>
 
 <p align=center>
-<img src="portada.png" width="75vw" height="75vw" />
+<img src="portada.png" width="75%" height="75%" />
 </p>
